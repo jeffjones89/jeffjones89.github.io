@@ -2,7 +2,7 @@
 title: Jeff Jones in DC
 email: jeff.jones1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thanks for stopping by my site! I'm a full stack web developer, currently residing in Washington DC, and looking for full time work in the District, New York or San Francisco. 
+  Thanks for stopping by my site! I'm a full stack web developer, currently residing in Washington DC, and looking for full time work in the District, New York City or San Francisco. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jeff_jonesDC
